@@ -13,7 +13,7 @@ export const homeObjOne = {
     dark: false,
     primary: true,
     darkText: false,
-    href: "https://sistemas.uniandes.edu.co/es/isis",
+    href: "https://www.instagram.com/analytics.club.ac/",
 };
 
 export const homeObjTwo = {
@@ -31,7 +31,7 @@ export const homeObjTwo = {
     dark: true,
     primary: false,
     darkText: true,
-    href: "https://industrial.uniandes.edu.co/es/programas-academicos/pregrado/ingenieria-industrial",
+    href: "https://www.instagram.com/analytics.club.ac/",
 
 };
 export const homeObjThree = {
@@ -49,8 +49,7 @@ export const homeObjThree = {
     dark: false,
     primary: true,
     darkText: false,
-    href: require('../../files/Nicolas_Bejar_CV.pdf').default,
-    download: "Nicolas Bejar CV"
+    href: "https://www.instagram.com/analytics.club.ac/",
 };
 
 
@@ -69,25 +68,6 @@ export const homeObjFour = {
     dark: true,
     primary: false,
     darkText: true,
-    href: require('../../files/Nicolas_Bejar_CV.pdf').default,
-    download: "Nicolas Bejar CV"
+    href: "https://www.instagram.com/analytics.club.ac/",
 };
 
-export const homeObjFive = {
-    id: 'resume',
-    lightBg: true,
-    lightText: false,
-    lightTextDesc: false,
-    topLine: 'Resume',
-    headLine: 'Full Resume',
-    description: 'Software Engineering & Industrial Engineering student at Universidad de Los Andes. If you want to check the full resume click on the Get Resume button. ',
-    buttonLabel: 'Get Resume',
-    imgStart: true,
-    img: require('../../images/svg-5.svg').default,
-    alt: 'Avion',
-    dark: true,
-    primary: false,
-    darkText: true,
-    href: require('../../files/Nicolas_Bejar_CV.pdf').default,
-    download: "Nicolas Bejar CV"
-};

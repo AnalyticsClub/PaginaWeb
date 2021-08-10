@@ -23,9 +23,6 @@ const Navbar = ({toggle}) => {
         scroll.scrollToTop()
     }
 
-    const toggleSocial = () => {
-        scroll.scrollToBottom()
-    }
 
     return (
       <>
@@ -46,10 +43,7 @@ const Navbar = ({toggle}) => {
                         <NavLinks to="projects" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Proyectos</NavLinks>
                     </NavItem>
                     <NavItem>
-                        <NavLinks to="members" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Miembros</NavLinks>
-                    </NavItem>
-                    <NavItem>
-                        <NavLinks onClick={toggleSocial} smooth={true} duration={500} spy={true} exact='true' offset={-80}>Social Media</NavLinks>
+                        <NavLinks to="members" smooth={true} duration={500} spy={true} exact='true' offset={-80}>Members</NavLinks>
                     </NavItem>
                 </NavMenu>
                 <NavBtn>
