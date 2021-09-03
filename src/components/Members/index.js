@@ -39,7 +39,7 @@ const Members = () => {
                 </MembersCard>
                 <MembersCard>
                     <MembersIcon src={Miembro4} />
-                    <MembersH2>Nicolás Bejar</MembersH2>
+                    <MembersH2>Natalia Perales</MembersH2>
                     <MembersH3>Board Member</MembersH3>
                 </MembersCard>
                 <MembersCard>
