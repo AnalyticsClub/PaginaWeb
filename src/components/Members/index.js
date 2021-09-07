@@ -39,7 +39,7 @@ const Members = () => {
                 </MembersCard>
                 <MembersCard>
                     <MembersIcon src={Miembro4} />
-                    <MembersH2>Natalia Perales</MembersH2>
+                    <MembersH2>Nicolas Bejar</MembersH2>
                     <MembersH3>Board Member</MembersH3>
                 </MembersCard>
                 <MembersCard>
@@ -74,7 +74,7 @@ const Members = () => {
                 </MembersCard>
                 <MembersCard>
                     <MembersIcon src={Miembro11} />
-                    <MembersH2>Juan Diego Prieto</MembersH2>
+                    <MembersH2>Juan Camilo Prieto</MembersH2>
                     <MembersH3>Co-Líder de Empresas</MembersH3>
                 </MembersCard>
                 <MembersCard>
